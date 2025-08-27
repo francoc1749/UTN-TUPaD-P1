@@ -1,0 +1,5 @@
+nombre = input("Ingrese su nombre: ")
+apellido = input("Ingrese su apellido: ")
+edad = input("Ingrese su edad: ")
+ciudad = input("Ingrese su ciudad: ")
+print(f"Hola {nombre} {apellido}, tienes {edad} años y vives en {ciudad}.")
